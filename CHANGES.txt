@@ -2,7 +2,7 @@ OSSN - OPEN SOURCE SOCIAL NETWORK 3.9
 
 Bugfixes:
 
-* View all comments link missing on direct photo view #591
+* View all comments link missing on direct photo view #591 kah
 * Poster image display problem with profile pics < 32 x 32 #595
 * Deleting the current profile pic/cover doesn't update cache #590 [Fixed for profile pictrued, in progress with cover photo]
 * Show latest comments instead of oldest comments #603
